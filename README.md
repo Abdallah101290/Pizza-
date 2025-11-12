@@ -1,8 +1,8 @@
 # 🍕 Pizza Sales Analysis Dashboard  
 
-![Dashboard Cover](Dashboard.png)
-![Pizza Performance](Insights.png)
-![SQL Database Structure](SQL_Database.png)
+![Dashboard Cover](Home.png)
+![Pizza Performance](Best_worst Seller.png)
+
 
 ---
 
