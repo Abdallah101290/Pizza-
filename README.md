@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Analysis Dashboard  
 
 ![Dashboard Cover](Home.png)
-![Pizza Performance](Best_worst Seller.png)
+![Pizza Performance](github.com/Abdallah101290/Pizza-/blob/main/Best_worst%20Seller.png)
 
 
 ---
